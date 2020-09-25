@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "NAVNEET KAUR",
+    "occupation": "FRONT END DEVELOPER ",
+    "description": " REACT JS SELF TAUGHT DEVELOPER ",
+    "image": "navneet.jpg",
+    "bio": "My name is Navneet, I'm a Front End Developer. Currently I'm making Projects in React.js",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "lucknavi.2016@gmail.com",
+    "phone": "93990904",
+    "address": {
+      "street": "Evald Theies Vei 7",
+      "city": "Drammen",
+      "zip": "3024"
+    },
+    
+    "resumedownload": "https://docs.google.com/document/d/1Ar7PaXwqYB5ysxScqEqgLJMn83S8WDBPDRfBSV1RSgo/edit?usp=sharing",
+    "social": [
+      {
+        
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/navneet-kaur-b954a8178/",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/Navneetkaurdeveloper?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "GURU NANAK DEV UNIVERSITY AMRITSAR , INDIA",
+        "degree": "BACHELORS IN COMPUTER APPLICATIONS",
+        
+        "description": "Graduated with Distinction"
+      }
+    ],
+    
+    "skills": [
+      {
+        
+          "name": "JAVASCRIPT",
+          "level": "80%"
+        },
+        {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "BOOTSTRAP",
+        "level": "80%"
+      },
+      {
+        "name": "JQUERY",
+        "level": "80%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TODO APP IN REACT USING HOOKS",
+        
+        "image": "TODOAPP.png",
+        "url": "https://github.com/Navneetkaurdeveloper/Todo-App-in-React-using-Hooks"
+      },
+      {
+        "title": "GOOGLE KEEP APP CLONE IN REACT",
+       
+        "image": "GOOGLEKEEP.png",
+        "url": "https://github.com/Navneetkaurdeveloper/Clone-Of-Google-keep-App-in-React"
+      },
+      {
+        "title": "SCRAMBLE GAME IN JAVASCRIPT",
+       
+        "image": "GUESS.png",
+        "url": "https://github.com/Navneetkaurdeveloper/Scramble-Game-in-javascript"
+      },
+      {
+        "title": "LIST OF NETFLIX SERIES IN 2020",
+        
+        "image": "NETFLIX.png",
+        "url": "https://github.com/Navneetkaurdeveloper/Netflix-App-in-React"
+      },
+      {
+        "title": "LEARN NORWEGIAN APP IN REACT",
+       
+        "image": "NORWEGIAN.png",
+        "url": "https://github.com/Navneetkaurdeveloper/Learn-Norwegian-App-in-React"
+      },
+      {
+        "title": "DICE GAME IN JAVASCRIPT",
+       
+        "image": "DICE.png",
+        "url": "https://github.com/Navneetkaurdeveloper/Dice-Game-Using-Javascript-HTML5-CSS3"
+      },
+      {
+        "title": "FULLY RESPONSIVE WEBSITE USING BOOTSRAP",
+       
+        "image": "BOOTSRAP.png",
+        "url": "https://github.com/Navneetkaurdeveloper/Fully-Responsive-Website-Using-HTML5-CSS3-BOOTSRAP4"
+      }
+    ]
+  }
+ 
+}
